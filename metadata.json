@@ -1,0 +1,6 @@
+{
+  "name": "Nexus3D Site Builder",
+  "description": "An AI-powered multi-page 3D website generator using Gemini, React Three Fiber, and Framer Motion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
